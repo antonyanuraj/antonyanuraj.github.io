@@ -81,7 +81,7 @@ __By using your username as the repository name, it lets Github know that this r
 
 ### 5) Access hosted Resume  
 
-- Enter `yourUsername.github.io` to access your hosted resume.  
+- Enter `yourUsername.github.io` in your browser to access your hosted resume.  
 
 ![Resume gif](gifs/resume.gif)  
 
