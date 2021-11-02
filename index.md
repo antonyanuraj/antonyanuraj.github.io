@@ -20,7 +20,7 @@ R3Y 0Y1
 
 ## Techincal Skills  
 ### Frameworks/Technologies  
-- Git, SQL, Android Studio, Intelij, VS code, Spyder, pyCharm  
+- Git, SQL, Android Studio, Intellij, VS code, Spyder, PyCharm  
     
 ### Programming Languages  
 - Python, Java, C, C++, Javascript, HTML, Prolog  
