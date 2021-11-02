@@ -37,7 +37,7 @@ To get started you will need a few things:
 
 ![creating repository](gifs/createRepository.gif)  
 
-    By using your username as the repository name, it lets Github know that this repository will be using Github Pages.  
+__By using your username as the repository name, it lets Github know that this repository will be using Github Pages.__  
 
 ### 2) Upload Resume file  
 
@@ -79,9 +79,13 @@ To get started you will need a few things:
 
 - Commit the new changes to the file.  
 
-## Well Done you have successfully hosted your Resume using GitHub Pages!  
+## Access hosted Resume  
+
+- Enter `yourName.github.io` to access your hosted resume.  
 
 ![Resume gif](gifs/resume.gif)  
+
+**Well Done you have successfully hosted your resume on GitHub Pages!**  
 
 ### More Resources  
 
