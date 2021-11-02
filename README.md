@@ -24,6 +24,8 @@ To get started you will need a few things:
 
 ### 1) Create a new GitHub Repository  
 
+**Using Distributed Version Control Systems (DVCS) is more beneficial than using centralized sytems. Some of the benefits include better performance and allows users to work offline. Ability to work concurrently on the same file is what wins it for DVCS. the repository allows multipe people to contribute to it which brings benefits such as ability to peer review a person's work.**
+
    - Login to Github Account.  
 
    - Click `+` button on top right corner.  
@@ -34,13 +36,15 @@ To get started you will need a few things:
 
    - Enter repository name as `yourUsername.github.io`.  
    - Set who can see your repository by selecting either `Public` or `Private`.
-   - Click `Create repository` to confirm your preferences and create the repository.  
+   - Click `Create repository` to confirm your preferences and create the repository.     
 
 ![creating repository](gifs/createRepository.gif)  
 
 __By using your username as the repository name, it lets Github know that this repository will be using Github Pages.__  
 
 ### 2) Upload Resume file  
+
+**Using version control for documentation can be seen sometimes as doing a bit to much. Using version control for documentation purposes helps a technical writer positively. Because it allows them to collaborate with developers. Using mordern technologies help to display effort of person. As time passes technology changes and if a person puts in effort to keep up, it is not something other would take lightly.**
 
    - Rename your resume which is in `.md` format from `currentName.md` to `index.md`.  
 
@@ -54,9 +58,13 @@ __By using your username as the repository name, it lets Github know that this r
 
    - Click `commit changes` to upload files to repository.  
 
+    
+
 ![uploading file](gifs/fileUpload.gif)  
 
 ### 3) Apply Jekyll theme to your website  
+
+**Jekyll is a static website generator. It is able to generate beautiful websites with just content (in lightweight markup language) and a theme. Andrew Etter suggests that using a theme and spending time customizing your website help your website stand out from thousands of plain and unappealing looking websites.**
 
    - Go to `settings` in your repository.  
 
@@ -68,11 +76,13 @@ __By using your username as the repository name, it lets Github know that this r
 
    - Select the theme you want to apply to your website.  
 
-   - Click `Select theme` to apply the theme to your website, a `_config.yml` is automatically created for you in your repository.    
+   - Click `Select theme` to apply the theme to your website, a `_config.yml` is automatically created for you in your repository.  
 
 ![apply theme](gifs/applyTheme.gif)  
 
 ### 4) Customizing Jekyll theme applied to Website  
+
+**Making changes to the website is as simple as making changes to the content. Jekyll will process everything again and display the website with the new changes in content. This type of flexibility is what makes Jekyll one of the most popular static site generator.**
 
 - Open file called `_config.yml`.  
 
@@ -80,9 +90,11 @@ __By using your username as the repository name, it lets Github know that this r
 
 - Commit the new changes to the file.  
 
-### 5) Access hosted Resume  
+### 5) Access hosted resume  
 
 - Enter `yourUsername.github.io` in your browser to access your hosted resume.  
+
+**Creating and distributing files as PDF can lead to multiple out-of-date documentation being stored in different places. Using a lightweight markup format file to store documentation online will allow the host to just change the content of the file to keep the document up-to-date.**
 
 ![Resume gif](gifs/resume.gif)  
 
