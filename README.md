@@ -58,7 +58,7 @@ __By using your username as the repository name, it lets Github know that this r
 
 ### 3) Apply Jekyll theme to your website  
 
-   - Go to `settings` on your repository.  
+   - Go to `settings` in your repository.  
 
    - Scroll down till you see a section called `GitHub Pages`.  
 
