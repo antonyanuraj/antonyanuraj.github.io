@@ -79,9 +79,9 @@ __By using your username as the repository name, it lets Github know that this r
 
 - Commit the new changes to the file.  
 
-## Access hosted Resume  
+### 5) Access hosted Resume  
 
-- Enter `yourName.github.io` to access your hosted resume.  
+- Enter `yourUsername.github.io` to access your hosted resume.  
 
 ![Resume gif](gifs/resume.gif)  
 
