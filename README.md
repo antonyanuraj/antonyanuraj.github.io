@@ -24,7 +24,7 @@ To get started you will need a few things:
 
 ### 1) Create a new GitHub Repository  
 
-**Using Distributed Version Control Systems (DVCS) is more beneficial than using centralized sytems. Some of the benefits include better performance and allow users to work offline. Ability to work concurrently on the same file is what wins it for DVCS. The repository allows multiple people to contribute to it which brings benefits such as ability to peer review a person's work.**
+**Using Distributed Version Control Systems (DVCS) is more beneficial than using centralized sytems. According to Andrew Etter's book some of the benefits include better performance and allow users to work offline. Ability to work concurrently on the same file is what wins it for DVCS. The repository allows multiple people to contribute to it which brings benefits such as ability to peer review a person's work.**
 
    - Login to the GitHub Account.  
 
@@ -42,11 +42,11 @@ To get started you will need a few things:
 
 ![creating repository](gifs/createRepository.gif)  
 
-__By using your username as the repository name, it lets GitHub know that this repository will be using GitHub Pages.__  
+_By using your username as the repository name, it lets GitHub know that this repository will be using GitHub Pages._  
 
 ### 2) Upload resume file  
 
-**Using version control for documentation can be seen sometimes as doing a bit to much. Moreover, using it for documentation purposes helps a technical writer positively because it allows them to collaborate with developers. Using modern technologies help to display effort of a person. As time passes technology changes, and if a person puts in effort to keep up, it is not something others would take lightly.**
+**Etter believes that using version control for documentation can be seen sometimes as doing a bit to much. Moreover, using it for documentation purposes helps a technical writer positively because it allows them to collaborate with developers. Using modern technologies help to display effort of a person. As time passes technology changes, and if a person puts in effort to keep up, it is not something others would take lightly.**
 
    - Rename your resume which is in `.md` format from `currentName.md` to `index.md`.  
 
@@ -83,7 +83,7 @@ __By using your username as the repository name, it lets GitHub know that this r
 
 ### 4) Customizing Jekyll theme applied to Website  
 
-**Making changes to the website is as simple as making changes to the content. Jekyll will process everything again and display the website with the new changes in content. This type of flexibility is what makes Jekyll one of the most popular static site generator.**
+**Making changes to the website is as simple as making changes to the content. Jekyll will process everything again and display the website with the new changes in content. This type of flexibility is what makes Jekyll one of the most popular static site generator according to Andrew Etter.**
 
 - Open file called `_config.yml`.  
 
@@ -95,7 +95,7 @@ __By using your username as the repository name, it lets GitHub know that this r
 
 - Enter `yourUsername.github.io` in your browser to access your hosted resume.  
 
-**Creating and distributing files as PDF can lead to multiple out-of-date documentation being stored in different places. Using a lightweight markup format file to store documentation online will allow the host to just change the content of the file to keep the document up-to-date.**
+**Etter mentions that creating and distributing files as PDF can lead to multiple out-of-date documentation being stored in different places. Using a lightweight markup format file to store documentation online will allow the host to just change the content of the file to keep the document up-to-date.**
 
 ![Resume gif](gifs/resume.gif)  
 
