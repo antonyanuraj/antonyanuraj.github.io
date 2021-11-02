@@ -2,7 +2,7 @@
 
 ## Purpose  
 
-The purpose of this README is to provides a step-by-step guide on how to host a resume on GitHub Pages.  
+The purpose of this README is to provides a step-by-step guide on how to host a resume on GitHub Pages and introduce principles found in Andrew Etter’s book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)  
 
 ## Prerequisites  
 
@@ -18,6 +18,7 @@ To get started you will need a few things:
 3) Resume  
 
     - The Resume has to be in Markdown format. If you are not familiar with syntax of Markdown or need a refresher, please refer to [Markdown Tutorial](https://www.markdowntutorial.com/).  
+
 
 ## Instructions  
 
@@ -107,7 +108,12 @@ Special thanks to my group members: Raman Bhandari, Jason Tran and Shawn Lanting
 
 ### Why is Markdown better than a word processor?  
 
+    According to Andrew Etter, "Microsoft Word is a wonderful choice for creating résumés and a horrible choice for creating documentation."  
+    
+    source: Etter, Andrew. Modern Technical Writing (p. 16).  
+
+- Appilications like Microsoft Word are only avaliable for Mac and Windows users and also requires users to purchase a license to use it. Markdown is a free, lightweight markup language that people can learn in a few minutes to create documentation.  
 
 ### Can I use a custom domain for my Github site?  
 
-  - Yes, to learn about how to use custom domain click [here](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages)  
+  - Yes, click [here](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages) to learn about how to use a custom domain.  
