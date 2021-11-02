@@ -1,8 +1,8 @@
-# How to host a Resume on GitHub Pages  
+# How to host a resume on GitHub Pages  
 
 ## Purpose  
 
-The purpose of this README is to provides a step-by-step guide on how to host a resume on GitHub Pages and relate the principles found in Andrew Etter’s book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) to the guide.  
+The purpose of this README is to provide a step-by-step guide on how to host a resume on GitHub Pages and relate it to the principles found in Andrew Etter’s book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).  
 
 ## Prerequisites  
 
@@ -13,38 +13,40 @@ To get started you will need a few things:
 
 2) Markdown Editor 
 
-    - You can use any markdown editor to create a Resume. I personally used [Visual Studio Code](https://code.visualstudio.com/).  
+    - You can use any markdown editor to create a resume. I personally used [Visual Studio Code](https://code.visualstudio.com/).  
 
 3) Resume  
 
-    - The Resume has to be in Markdown format. If you are not familiar with syntax of Markdown or need a refresher, please refer to [Markdown Tutorial](https://www.markdowntutorial.com/).  
+    - The resume has to be in Markdown format. If you are not familiar with  the syntax of Markdown or need a refresher, please refer to the [Markdown Tutorial](https://www.markdowntutorial.com/).  
 
 
 ## Instructions  
 
 ### 1) Create a new GitHub Repository  
 
-**Using Distributed Version Control Systems (DVCS) is more beneficial than using centralized sytems. Some of the benefits include better performance and allows users to work offline. Ability to work concurrently on the same file is what wins it for DVCS. the repository allows multipe people to contribute to it which brings benefits such as ability to peer review a person's work.**
+**Using Distributed Version Control Systems (DVCS) is more beneficial than using centralized sytems. Some of the benefits include better performance and allow users to work offline. Ability to work concurrently on the same file is what wins it for DVCS. The repository allows multiple people to contribute to it which brings benefits such as ability to peer review a person's work.**
 
-   - Login to Github Account.  
+   - Login to the GitHub Account.  
 
-   - Click `+` button on top right corner.  
+   - Click `+` button on the top right corner.  
 
    - Select `New repository` from the menu.  
 
-   - Set Owner to `your Username` if not already selected.  
+   - Set `Owner` to `your Username` if not already selected.  
 
    - Enter repository name as `yourUsername.github.io`.  
-   - Set who can see your repository by selecting either `Public` or `Private`.
+
+   - Set who can see your repository by selecting either `Public` or `Private`.  
+
    - Click `Create repository` to confirm your preferences and create the repository.     
 
 ![creating repository](gifs/createRepository.gif)  
 
-__By using your username as the repository name, it lets Github know that this repository will be using Github Pages.__  
+__By using your username as the repository name, it lets GitHub know that this repository will be using GitHub Pages.__  
 
-### 2) Upload Resume file  
+### 2) Upload resume file  
 
-**Using version control for documentation can be seen sometimes as doing a bit to much. Using version control for documentation purposes helps a technical writer positively. Because it allows them to collaborate with developers. Using mordern technologies help to display effort of person. As time passes technology changes and if a person puts in effort to keep up, it is not something other would take lightly.**
+**Using version control for documentation can be seen sometimes as doing a bit to much. Moreover, using it for documentation purposes helps a technical writer positively because it allows them to collaborate with developers. Using modern technologies help to display effort of a person. As time passes technology changes, and if a person puts in effort to keep up, it is not something others would take lightly.**
 
    - Rename your resume which is in `.md` format from `currentName.md` to `index.md`.  
 
@@ -56,21 +58,20 @@ __By using your username as the repository name, it lets Github know that this r
 
    - Click `open` to confirm your selection of files.  
 
-   - Click `commit changes` to upload files to repository.  
+   - Click `commit changes` to upload the file to repository.  
 
     
-
 ![uploading file](gifs/fileUpload.gif)  
 
 ### 3) Apply Jekyll theme to your website  
 
-**Jekyll is a static website generator. It is able to generate beautiful websites with just content (in lightweight markup language) and a theme. Andrew Etter suggests that using a theme and spending time customizing your website help your website stand out from thousands of plain and unappealing looking websites.**
+**Jekyll is a static website generator. It is able to generate beautiful websites with just content (in lightweight markup language) and a theme. Andrew Etter suggests that using a theme and spending time customizing your website helps your website stand out from thousands of plain and unappealing looking websites.**
 
-   - Go to `settings` in your repository.  
+   - Go to the `settings` in your repository.  
 
    - Scroll down till you see a section called `GitHub Pages`.  
 
-   - Click the link `Check it out here!` to display github pages section.  
+   - Click the link `Check it out here!` to display the GitHub Pages section.  
 
    - Click button `Choose a theme`.
 
@@ -90,7 +91,7 @@ __By using your username as the repository name, it lets Github know that this r
 
 - Commit the new changes to the file.  
 
-### 5) Access hosted resume  
+### 5) Access the hosted resume  
 
 - Enter `yourUsername.github.io` in your browser to access your hosted resume.  
 
@@ -106,7 +107,7 @@ __By using your username as the repository name, it lets Github know that this r
 
 - Andrew Etter’s book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)  
 
-- [Cayman](https://github.com/pages-themes/cayman) jekyll theme.  
+- [Cayman](https://github.com/pages-themes/cayman) Jekyll theme.  
 
 - Learn more about [Jekyll](https://jekyllrb.com/)  
 
@@ -114,7 +115,7 @@ __By using your username as the repository name, it lets Github know that this r
 
 This guide was written by [Antony Anuraj](https://github.com/antonyanuraj)  
 
-Special thanks to my group members: Raman Bhandari, Jason Tran and Shawn Lanting, for peer-reviewing my resume and guide.
+Special thanks to my group members: Raman Bhandari, Jason Tran, and Shawn Lanting, for peer-reviewing my resume and guide.
 
 ## FAQs  
 
@@ -124,7 +125,7 @@ Special thanks to my group members: Raman Bhandari, Jason Tran and Shawn Lanting
 
     Source: Etter, Andrew. Modern Technical Writing (p. 16).  
 
-- Appilications like Microsoft Word are only avaliable for Mac and Windows users and also requires users to purchase a license to use it. Markdown is a free, lightweight markup language that people can learn in a few minutes to create documentation.  
+- Appilications like Microsoft Word are only avaliable for Mac and Windows users and also requires users to purchase a license to use it. Markdown is a free, lightweight markup language that people can learn in a few minutes to create any documentation.  
 
 ### Can I use a custom domain for my Github site?  
 
