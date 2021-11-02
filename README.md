@@ -2,7 +2,7 @@
 
 ## Purpose  
 
-The purpose of this README is to provides a step-by-step guide on how to host a resume on GitHub Pages and introduce principles found in Andrew Etter’s book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)  
+The purpose of this README is to provides a step-by-step guide on how to host a resume on GitHub Pages and relate the principles found in Andrew Etter’s book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) to the guide.  
 
 ## Prerequisites  
 
@@ -88,7 +88,7 @@ __By using your username as the repository name, it lets Github know that this r
 
 **Well Done you have successfully hosted your resume on GitHub Pages!**  
 
-### More Resources  
+## More Resources  
 
 - [Markdown tutorial](https://www.markdowntutorial.com/)  
 
@@ -109,8 +109,8 @@ Special thanks to my group members: Raman Bhandari, Jason Tran and Shawn Lanting
 ### Why is Markdown better than a word processor?  
 
     According to Andrew Etter, "Microsoft Word is a wonderful choice for creating résumés and a horrible choice for creating documentation."  
-    
-    source: Etter, Andrew. Modern Technical Writing (p. 16).  
+
+    Source: Etter, Andrew. Modern Technical Writing (p. 16).  
 
 - Appilications like Microsoft Word are only avaliable for Mac and Windows users and also requires users to purchase a license to use it. Markdown is a free, lightweight markup language that people can learn in a few minutes to create documentation.  
 
