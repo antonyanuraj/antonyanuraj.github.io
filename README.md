@@ -24,7 +24,7 @@ To get started you will need a few things:
 
 ### 1) Create a new GitHub Repository  
 
-**Using Distributed Version Control Systems (DVCS) is more beneficial than using centralized sytems. According to Andrew Etter's book some of the benefits include better performance and allow users to work offline. Ability to work concurrently on the same file is what wins it for DVCS. The repository allows multiple people to contribute to it which brings benefits such as ability to peer review a person's work.**
+**Using Distributed Version Control Systems (DVCS) is more beneficial than using centralized sytems. According to Andrew Etter's book, some of the benefits include better performance and allow users to work offline. Ability to work concurrently on the same file is what wins it for DVCS. The repository allows multiple people to contribute to it which brings benefits such as ability to peer review a person's work.**
 
    - Login to the GitHub Account.  
 
@@ -46,7 +46,7 @@ _By using your username as the repository name, it lets GitHub know that this re
 
 ### 2) Upload resume file  
 
-**Etter believes that using version control for documentation can be seen sometimes as doing a bit to much. Moreover, using it for documentation purposes helps a technical writer positively because it allows them to collaborate with developers. Using modern technologies help to display effort of a person. As time passes technology changes, and if a person puts in effort to keep up, it is not something others would take lightly.**
+**Etter believes that using version control for documentation can be seen sometimes as doing a bit too much. Moreover, using it for documentation purposes helps a technical writer positively because it allows them to collaborate with developers. Using modern technologies help to display effort of a person. As time passes technology changes, and if a person puts in effort to keep up, it is not something others would take lightly.**
 
    - Rename your resume which is in `.md` format from `currentName.md` to `index.md`.  
 
