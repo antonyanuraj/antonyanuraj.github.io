@@ -125,7 +125,7 @@ Special thanks to my group members: Raman Bhandari, Jason Tran, and Shawn Lantin
 
     Source: Etter, Andrew. Modern Technical Writing (p. 16).  
 
-- Appilications like Microsoft Word are only avaliable for Mac and Windows users and also requires users to purchase a license to use it. Markdown is a free, lightweight markup language that people can learn in a few minutes to create any documentation.  
+- Applications like Microsoft Word are only avaliable for Mac and Windows users and also requires users to purchase a license to use it. Markdown is a free, lightweight markup language that people can learn in a few minutes to create any documentation.  
 
 ### Can I use a custom domain for my Github site?  
 
