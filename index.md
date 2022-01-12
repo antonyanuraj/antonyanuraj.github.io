@@ -59,7 +59,7 @@ R3Y 0Y1
 
 #### Data Mining
 
-- Filtearing and retrieving important information from a large cricket dataset.
+- Retrieving and filtearing important information from a large cricket dataset.
 - Identifying key factors that influence cricket match results.
 - Prediciting results of Cricket World Cup 2021 matches based historical cricket match data.
 - Using a formula/method to compare our result for the scheduled matches in the world cup to the actual results of each individual match.
