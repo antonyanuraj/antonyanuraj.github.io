@@ -25,8 +25,7 @@ R3Y 0Y1
 
 ### Frameworks/Technologies
 
-- Git, SQL, Android Studio, Intellij, VS code, Spyder, PyCharm  
-
+- Git, SQL, Android Studio, Intellij, VS code, Spyder, PyCharm
 
 ### Programming Languages
 
@@ -56,7 +55,7 @@ R3Y 0Y1
 - Aquired prototyping skills by developing both low-fidelity and high fidelity prototypes.
 - Performed individual heuristic analysis to explore system in depth.
 
-### Predicting Winners of Cricket using Data Mining (Group project)
+### Cricket Data Mining (Group project)
 
 #### Data Mining
 
