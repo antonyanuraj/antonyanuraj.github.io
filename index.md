@@ -1,6 +1,4 @@
-2505 Waverley Street  
-Winnipeg, Manitoba  
-R3Y 0Y1  
+Winnipeg, Manitoba
 **Phone number**: +1 (204) 688-3416  
 **Email**: anuraja@myumanitoba.ca  
 **Linkedin**: [@antonyanuraj](https://www.linkedin.com/in/antony-anuraj-6aa05b194/)
@@ -25,11 +23,11 @@ R3Y 0Y1
 
 ### Frameworks/Technologies
 
-- Git, SQL, Android Studio, Intellij, VS code, Spyder, PyCharm
+- Git, MySQL, Android Studio, IntelliJ, VS code, PyCharm, Spring Boot, Vue.js, MongoDB
 
 ### Programming Languages
 
-- Python, Java, C, C++, Javascript, HTML, Prolog
+- Python, Java, C, C++, Javascript, HTML
 
 ### Concepts
 
@@ -63,6 +61,15 @@ R3Y 0Y1
 - Identifying key factors that influence cricket match results.
 - Prediciting results of Cricket World Cup 2021 matches based historical cricket match data.
 - Using a formula/method to compare our result for the scheduled matches in the world cup to the actual results of each individual match.
+
+### BookWyrm (Group project)
+
+#### Software Engineering 2
+
+- Book Wyrm is a web application for reading and writing reviews about books
+- Worked as a team of 5 to implement this application, my responsibilities included Full Stack Developer and QA Analyst
+- Implemented Spring based endpoints for Reviews, Comments, Search based on book details, Upvote and Downvote also implemented all the required backend components
+- Implemented Vue based frontend components for the homepage like carousel for recently added books and top-rated books by genre
 
 ## Languages
 
