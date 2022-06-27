@@ -1,7 +1,7 @@
 Winnipeg, Manitoba<br/> 
 **Phone number**: +1 (204) 688-3416  
 **Email**: anuraja@myumanitoba.ca  
-**Linkedin**: [@antonyanuraj](https://www.linkedin.com/in/antony-anuraj-6aa05b194/)
+**Linkedin**: [@antonyanuraj](https://www.linkedin.com/in/antony-anuraj/)
 
 ## Education
 
