@@ -6,9 +6,9 @@
 
 ### University of Manitoba (BSc Computer Science) 2017-2022
 
-#### Relevant Coursework: Operating Systems, Data Structures and Algorithms, and Object Orientation
+Relevant Coursework: Operating Systems, Data Structures and Algorithms, and Object Orientation
 
-#### Areas of Specialization: Databases
+Areas of Specialization: Databases
 
 ## Work Experience
 
